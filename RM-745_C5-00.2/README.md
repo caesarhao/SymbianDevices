@@ -1,5 +1,14 @@
-# title h1
-bla bla *italia* **brand**
+# NOKIA C5-00.2
+**Phone is locked to SFR**
+Type: RM-745
+Model: C5-00.2
+IMEI: 359329/04/960662/7
+IMEI: 359329049606627
+Code: 059J189
+FCC ID: QFXRM-745
+
+## Lock information
+
 
 ## title h2
 
